@@ -1,3 +1,4 @@
+
 <h1>Hi there! 👋 </h1>
 
 <h3>👩 About Me</h3>
@@ -7,7 +8,31 @@
 - 💞️ I’m looking to collaborate on anything that can help me grow!<br/>
 - 📫 How to reach me => linkedin.com/in/minahilhussain<br/>
 
-<!--   <h3>🛠️ Tech Stack</h3> -->
+ <h3>🛠️ Tech Stack</h3>
+<!--  <p>
+<img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/git.png" />
+  </p> -->
+
+<p>Code:<br/>
+  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/javascript.png" />
+  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/typescript.png" />
+  <img style= "width: 3rem;height: 3rem;" src="https://img.icons8.com/color/512/html-5--v1.png"/>
+  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/css3.png" />
+  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/php.png" />
+</p>
+<p>Tools: <br/>
+  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nodejs.png" />
+  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/express-js.png" />
+  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/react-native.png" /> 
+  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nestjs.png" />
+</p>
+  
+<!--   
+  <img style="height:3rem;width:3rem;" src="" />
+  architecture: ["Microservice", "MVC", "RESTful API"],
+  databases: ["MySql", “Postgres”, “mongo”, “nosql"],
+  misc: [ git, GitHub, graphql, Java,  python] -->
+
   
 
 <!---
