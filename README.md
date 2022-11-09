@@ -13,24 +13,39 @@
 <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/git.png" />
   </p> -->
 
-<p>Code:<br/>
+<p><strong>Code: </strong><br/>
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/javascript.png" />
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/typescript.png" />
   <img style= "width: 3rem;height: 3rem;" src="https://img.icons8.com/color/512/html-5--v1.png"/>
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/css3.png" />
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/php.png" />
 </p>
-<p>Tools: <br/>
+<p><strong>Tools: </strong><br/>
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nodejs.png" />
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/express-js.png" />
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/react-native.png" /> 
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nestjs.png" />
 </p>
-  
+<p><strong>Databases: </strong><br/>
+ <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/postgreesql.png" />
+ <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/mysql-logo.png" />
+ <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/mongodb.png" />
+  <img  style="height:3rem;width:3.5rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" />
+ 
+</p>  
+<p><strong>Misc: </strong><br/>
+ <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/git.png" />
+ <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/github.png" />
+ <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/graphql.png" />
+ <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" />
+ <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/python--v1.png" />
+ </p>
+ 
 <!--   
   <img style="height:3rem;width:3rem;" src="" />
+
   architecture: ["Microservice", "MVC", "RESTful API"],
-  databases: ["MySql", “Postgres”, “mongo”, “nosql"],
+  
   misc: [ git, GitHub, graphql, Java,  python] -->
 
   
