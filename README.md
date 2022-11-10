@@ -21,6 +21,7 @@
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/express-js.png" />
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/react-native.png" /> 
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nestjs.png" />
+   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nextjs.png" />
 </p>
 <p><strong> Databases: </strong><br/>
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/postgreesql.png" />
