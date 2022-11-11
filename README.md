@@ -35,7 +35,6 @@
  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/graphql.png" />
  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/api-settings.png" />
  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" />
- <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/python--v1.png" />
 </p>
 
 <!---
