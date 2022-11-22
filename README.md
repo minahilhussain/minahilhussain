@@ -1,4 +1,7 @@
 
+<!-- <div id="header" style="border: 5px solid red;" align="center">
+  <img src="[https://w7.pngwing.com/pngs/826/663/png-transparent-laptop-girl-thinking-woman-electronics-hand-computer-thumbnail.png](http://clipart-library.com/newhp/Female20Computer20User-295845.png)" width="100"/>
+</div> -->
 <h1>Hi there! 👋 </h1>
 
 <h3>👩 About Me</h3>
