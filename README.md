@@ -1,35 +1,34 @@
 
-<!-- <div id="header" style="border: 5px solid red;" align="center">
-  <img src="[https://w7.pngwing.com/pngs/826/663/png-transparent-laptop-girl-thinking-woman-electronics-hand-computer-thumbnail.png](http://clipart-library.com/newhp/Female20Computer20User-295845.png)" width="100"/>
-</div> -->
-<h1>Hi there! 👋 </h1>
-
-<h3>👩 About Me</h3>
+<div id="header" align="center">
+  <img src="https://camo.githubusercontent.com/40c6c5d9ac1c62d554de0b9b7be4beadb207816b0e42f8dc2fed05b9e7561f70/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966" width="200"/>
+<h1>Hello World! 👋 </h1>
+</div>
 - 👩‍💻 I'm Minahil Hussain, working as a web developer for the past two years.<br/>
 - 👀 I’m interested in Coding, problem solving and learning new things.<br/>
 - 🌱 I’m currently working in MERN/PERN stack<br/>
 - 💞️ I’m looking to collaborate on anything that can help me grow!<br/>
-- 📫 How to reach me => linkedin.com/in/minahilhussain<br/>
+- 📫 How to reach me => https://linkedin.com/in/minahilhussain<br/><br/>
 
-<h3>🛠️ Tech Stack</h3>
-<p><strong>Code: </strong><br/>
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/javascript.png" />
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/typescript.png" />
-  <img style= "width: 3rem;height: 3rem;" src="https://img.icons8.com/color/512/html-5--v1.png"/>
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/css3.png" />
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/php.png" />
+## 🛠️ Tech Stack 
+<div>
+  <p><strong>Code: </strong><br/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img style="height:3rem;width:3rem;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
 </p>
 <p><strong> Tools: </strong><br/>
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nodejs.png" />
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/express-js.png" />
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/react-native.png" /> 
+  <img style="height:3rem;width:3rem;" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nestjs.png" />
-   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nextjs.png" />
+  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nextjs.png" />
 </p>
 <p><strong> Databases: </strong><br/>
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/postgreesql.png" />
   <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/mysql-logo.png" />
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/mongodb.png" />
+  <img style="height:3rem;width:3rem;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
   <img  style="height:3rem;width:3.5rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" />
 </p>  
 <p><strong> Misc: </strong><br/>
@@ -40,12 +39,11 @@
  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" />
 </p>
 
-<!---
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss)](https://github.com/minahilhussain/github-readme-stats)
+  ## 🔥 My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)](https://git.io/streak-stats)
+<br/>
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000)](https://github.com/minahilhussain/github-readme-stats)
 
-![ScreenShot](https://camo.githubusercontent.com/988603b9bc6683c1728f665e6c97539f6a3d7c7cced12c72c81731e7deb0398f/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f796f6c6f2d64656661756c742e706e67)
-
---->
 
 
 <!---
