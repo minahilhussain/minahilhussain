@@ -40,7 +40,7 @@
 </p>
 
   ## 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)
 <br/>
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000)
 
