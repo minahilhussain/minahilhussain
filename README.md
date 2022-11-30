@@ -35,7 +35,7 @@
  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/git.png" />
  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/github.png" />
  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/graphql.png" />
- <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/api-settings.png" />
+<!--  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/api-settings.png" /> -->
  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" />
 </p>
 
