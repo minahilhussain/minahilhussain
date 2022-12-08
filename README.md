@@ -53,10 +53,10 @@
   <a href="https://www.linkedin.com/in/minahilhussain">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/minahilh21">
+  <a href="https://www.hackerrank.com/minahilhussain">
     <img src="https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
-  <a href="https://leetcode.com/minahil_hussain/">
+  <a href="https://leetcode.com/minahilhussain/">
     <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
