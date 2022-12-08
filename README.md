@@ -38,13 +38,30 @@
 <!--  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/api-settings.png" /> -->
  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" />
 </p>
+<br/>
 
-  ## 🔥 My Stats
+## 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)
 <br/>
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000)
 
+ <br />
+ <br />
 
+## 🔗 Let's Connect 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/minahilhussain">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/minahilh21">
+    <img src="https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://leetcode.com/minahil_hussain/">
+    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</div>
+
+<br />
 
 <!---
 minahilhussain/minahilhussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
