@@ -41,12 +41,16 @@
 <br/>
 
 ## 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)
 <br/>
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000)
 
  <br />
- <br />
+ <br /> -->
+<div style="display: flex; flex-direction: row; height: 200px">
+ <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000" />
+</div>
 
 ## 🔗 Let's Connect 
 <div id="badges" align="center">
