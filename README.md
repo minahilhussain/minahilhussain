@@ -9,48 +9,43 @@
 - 💞️ I’m looking to collaborate on anything that can help me grow!<br/>
 - 📫 How to reach me => https://linkedin.com/in/minahilhussain<br/><br/>
 
-## 🛠️ Tech Stack 
-<div>
-  <p><strong>Code: </strong><br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img style="height:3rem;width:3rem;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
-</p>
-<p><strong> Tools: </strong><br/>
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nodejs.png" />
-  <img style="height:3rem;width:3rem;" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nestjs.png" />
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/nextjs.png" />
-</p>
-<p><strong> Databases: </strong><br/>
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/postgreesql.png" />
-  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/mysql-logo.png" />
-  <img style="height:3rem;width:3rem;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-  <img  style="height:3rem;width:3.5rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" />
-</p>  
-<p><strong> Misc: </strong><br/>
- <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/git.png" />
- <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/github.png" />
- <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/graphql.png" />
-<!--  <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/api-settings.png" /> -->
- <img style="height:3rem;width:3rem;" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" />
-</p>
+<br/>
 <br/>
 
-## 🔥 My Stats
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)](http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000)
-<br/>
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000)
+## 🛠️ Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=A8B9CC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
- <br />
- <br /> -->
-<div style="display: flex; flex-direction: row; height: 200px">
- <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000" />
-</div>
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Nest](https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=fff)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql&logoColor=e60094)&nbsp;
+
+<br/>
+<br/>
+
+## 🔥 GitHub Stats
+
+| <a href="https://github.com/minahilhussain/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000" alt="Minahil's github stats" /></a> | <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&theme=dark&background=000000" /></a> |
+| ------------- | ------------- |
+
+<br/>
+<br/>
 
 ## 🔗 Let's Connect 
 <div id="badges" align="center">
