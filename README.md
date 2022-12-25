@@ -46,7 +46,9 @@ const Minahil = {
 - 🌱 I’m currently working in MERN/PERN stack.
 - 👀 I’m interested in Coding, problem solving and learning new things
 - 💞️ I’m looking to collaborate on anything that can help me grow!
-- 📫 Reach out to me at ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin)&nbsp;
+- 📫 Reach out to me at <a href="https://linkedin.com/in/minahilhussain">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
 
 <br/>
 
@@ -59,12 +61,18 @@ const Minahil = {
 
 ## 🔗 Let's Connect 
 <div id="badges" align="center">
-
-![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
-![HackerRank](https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white)&nbsp;
-![LeetCode](https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
-
+  <a href="mailto:minahilh21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/minahilhussain">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://hackerrank.com/minahilhussain">
+    <img src="https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://leetcode.com/minahilhussain/">
+    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 <br />
