@@ -60,9 +60,10 @@ const Minahil = {
 ## 🔗 Let's Connect 
 <div id="badges" align="center">
 
+![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white)&nbsp;
-![GraphQL](https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
+![HackerRank](https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white)&nbsp;
+![LeetCode](https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
 
 </div>
 
