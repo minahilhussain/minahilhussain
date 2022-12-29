@@ -8,7 +8,10 @@
 const Minahil = {
 	experience: "2.5 Years",
 	school: "Punjab University College of Information Technology",
-	work: "Software Engineering Intern @ Photon Commerce. Prev. Production Engineering @ MLH",
+	work: [
+		"Software Engineer(Full Stack) @ Trimulabs",
+		"Software Engineer @ Square63",
+	],
 	expertise: ["JavaScript", "NodeJS", "ExpressJs", "ReactJs", "MongoDB", "PostgreSQL"],
 	goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
 	askMeAbout: ["Full Stack Development", "Problem Solving"]
