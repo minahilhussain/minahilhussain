@@ -57,7 +57,7 @@ const Minahil = {
 
 ## 🔥 GitHub Stats
 
-| <a href="https://github.com/minahilhussain/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000" alt="Minahil's github stats" /></a> | <a href="https://github.com/minahilhussain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&langs_count=10&theme=dark&background=000000" /></a> |
+| <a href="https://github.com/minahilhussain/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000" alt="Minahil's github stats" /></a> | <a href="https://github.com/minahilhussain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&langs_count=8&theme=dark&background=000000" /></a> |
 | ------------- | ------------- |
 
 <br/>
