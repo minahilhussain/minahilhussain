@@ -47,7 +47,7 @@ const Minahil = {
 
 ## 🤔 What I am Up To
 - 🌱 I’m currently working in MERN/PERN stack.
-- 👀 I’m interested in Coding, problem solving and learning new things
+- 👀 I’m interested in coding, problem solving and learning new things
 - 💞️ I’m looking to collaborate on anything that can help me grow!
 - 📫 Reach out to me at <a href="https://linkedin.com/in/minahilhussain">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
@@ -57,7 +57,7 @@ const Minahil = {
 
 ## 🔥 GitHub Stats
 
-| <a href="https://github.com/minahilhussain/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000" alt="Minahil's github stats" /></a> | <a href="https://github.com/minahilhussain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&langs_count=8&theme=dark&background=000000" /></a> |
+| <a href="http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000" alt="Minahil's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&langs_count=8&theme=dark&background=000000"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&langs_count=8&theme=dark&background=000000" /></a> |
 | ------------- | ------------- |
 
 <br/>
