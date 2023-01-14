@@ -27,11 +27,11 @@ const Minahil = {
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Nest](https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-ExpressJs-05122A?style=flat&logo=express)&nbsp;
+![Nest](https://img.shields.io/badge/NestJs-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+![React](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next.js)&nbsp;
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
