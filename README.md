@@ -6,7 +6,7 @@
 
 ```javascript
 const Minahil = {
-	experience: "2.5 Years",
+	experience: "3 Years",
 	school: "Punjab University College of Information Technology",
 	work: [
 		"Software Engineer(Full Stack) @ Trimulabs",
