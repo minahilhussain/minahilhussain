@@ -9,7 +9,7 @@ const Minahil = {
 	experience: "3 Years",
 	school: "Punjab University College of Information Technology",
 	work: [
-		"Software Engineer(Full Stack) @ Trimulabs",
+		"Software Engineer(Full Stack) @ CodingCrafts",
 		"Software Engineer @ Square63",
 	],
 	expertise: ["JavaScript", "NodeJS", "ExpressJs", "ReactJs", "MongoDB", "PostgreSQL"],
