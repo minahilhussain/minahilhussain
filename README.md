@@ -12,7 +12,7 @@ const Minahil = {
 		"Software Engineer(Full Stack) @ CodingCrafts",
 		"Software Engineer @ Square63",
 	],
-	expertise: ["JavaScript", "NodeJS", "ExpressJs", "ReactJs", "MongoDB", "PostgreSQL"],
+	expertise: ["JavaScript", "NodeJS", "ExpressJs", "ReactJs/NextJs", "MongoDB", "PostgreSQL"],
 	goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
 	askMeAbout: ["Full Stack Development", "Problem Solving"]
 }
