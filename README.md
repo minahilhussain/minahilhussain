@@ -1,16 +1,16 @@
 
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/40c6c5d9ac1c62d554de0b9b7be4beadb207816b0e42f8dc2fed05b9e7561f70/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966" width="200"/>
+  <img src="femaleDev.avif" width="150" alt="Female Developer Image">
 <h1>Hello World! 👋 </h1>
 </div>
 
 ```javascript
 const Minahil = {
-	experience: "3 Years",
-	school: "Punjab University College of Information Technology",
+	experience: "4 Years",
+	school: "Punjab University College of Information Technology(Lahore, Pakistan)",
 	work: [
-		"Software Engineer(Full Stack) @ CodingCrafts",
-		"Software Engineer @ Square63",
+		"Software Engineer(Full Stack) @ CodingCrafts (Lahore, Pakistan)",
+		"Software Engineer @ Square63 (Lahore, Pakistan)",
 	],
 	expertise: ["JavaScript", "NodeJS", "ExpressJs", "ReactJs/NextJs", "MongoDB", "PostgreSQL"],
 	goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
@@ -42,6 +42,7 @@ const Minahil = {
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql&logoColor=e60094)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=1abcfe)&nbsp;
 
 <br/>
 
