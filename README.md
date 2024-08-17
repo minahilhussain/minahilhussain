@@ -12,9 +12,9 @@ const Minahil = {
 		"Software Engineer(Full Stack) @ CodingCrafts (Lahore, Pakistan)",
 		"Software Engineer @ Square63 (Lahore, Pakistan)",
 	],
-	expertise: ["JavaScript", "NodeJS", "ExpressJs", "ReactJs/NextJs", "MongoDB", "PostgreSQL"],
+	expertise: ["JavaScript", "TypeScript", "NodeJS", "ExpressJs", "ReactJs/NextJs", "MongoDB", "PostgreSQL"],
 	goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
-	askMeAbout: ["Full Stack Development", "Problem Solving"]
+	askMeAbout: ["Full Stack Development", "Web Development", "Problem Solving"]
 }
 ```
 <br/>
