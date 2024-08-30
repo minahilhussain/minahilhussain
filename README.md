@@ -66,16 +66,19 @@ const Minahil = {
 ## 🔗 Let's Connect 
 <div id="badges" align="center">
   <a href="mailto:minahilh21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://linkedin.com/in/minahilhussain">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://stackoverflow.com/users/13962153/minahil-hussain">
+    <img src="https://img.shields.io/badge/stackoverflow-grey?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack overflow Badge"/>
+  </a>
   <a href="https://hackerrank.com/minahilhussain">
-    <img src="https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
   <a href="https://leetcode.com/minahilhussain/">
-    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
 </div>
 
