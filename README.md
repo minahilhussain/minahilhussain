@@ -38,11 +38,21 @@ const Minahil = {
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=fff)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql&logoColor=e60094)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=1abcfe)&nbsp;
+
+![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=Heroku&logoColor=5A1BA9)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-05122A?style=flat&logo=Netlify&logoColor=00C7B7)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=Vercel&logoColor=FFFFFF)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
+
+
+
+
+
+
 
 <br/>
 
