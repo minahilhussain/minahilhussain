@@ -12,7 +12,7 @@ const Minahil = {
     "Software Engineer(Full Stack) @ CodingCrafts (Lahore, Pakistan)",
     "Software Engineer @ Square63 (Lahore, Pakistan)",
   ],
-  expertise: ["JavaScript", "TypeScript", "NodeJS", "ExpressJs", "ReactJs/NextJs", "MongoDB", "PostgreSQL"],
+  expertise: ["JavaScript", "TypeScript", "NodeJS", "ExpressJs/NestJs", "ReactJs/NextJs", "MongoDB", "PostgreSQL"],
   goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
   askMeAbout: ["Full Stack Development", "Web Development", "Problem Solving"]
 }
@@ -68,7 +68,7 @@ const Minahil = {
 
 ## 🔥 GitHub Stats
 
-| <a href="http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minahilhussain&theme=dark&background=000000" alt="Minahil's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&langs_count=8&theme=dark&bg_color=000000"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&langs_count=8&theme=dark&bg_color=000000" /></a> |
+| <a href="https://nirzak-streak-stats.vercel.app/?user=minahilhussain&theme=dark&hide_border=false&background=000000"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=minahilhussain&theme=dark&hide_border=false&background=000000" alt="Minahil's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&langs_count=8&theme=dark&bg_color=000000"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&layout=compact&hide=scss&langs_count=8&theme=dark&bg_color=000000" /></a> |
 | ------------- | ------------- |
 
 <br/>
