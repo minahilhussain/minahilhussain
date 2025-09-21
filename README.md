@@ -7,9 +7,9 @@
 ```javascript
 const Minahil = {
   experience: "5 Years",
-  school: "Punjab University College of Information Technology(Lahore, Pakistan)",
+  school: "Punjab University College of Information Technology (Lahore, Pakistan)",
   work: [
-    "Senior Software Engineer(Full Stack) @ CodingCrafts (Lahore, Pakistan)",
+    "Senior Software Engineer (Full Stack) @ CodingCrafts (Lahore, Pakistan)",
     "Software Engineer @ Square63 (Lahore, Pakistan)",
   ],
   expertise: ["JavaScript", "TypeScript", "NodeJS", "ExpressJs/NestJs", "ReactJs/NextJs", "MongoDB", "PostgreSQL"],
